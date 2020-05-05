@@ -102,10 +102,10 @@ logo = """•◈•-----------------------------•◈•
 
 ─────────────────────────────────────────────────────────
 =======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAliha
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAMBER
 \033[1;96mInstagram \033[1;93m: \033[1;FlowQueen
-\033[1;96mFacebook  \033[1;93m: \033[1;Aliha Ali
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Aliha/Moto
+\033[1;96mFacebook  \033[1;93m: \033[1;KIO BTAYE
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AMBER/Moto
 \033[1;91m======================================="""
 
 def tik():
@@ -126,15 +126,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAliha
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAMBER
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowQueen
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aliha Ali
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Aliha/Moto
+\033[1;96mFacebook  \033[1;93m: \033[1;92mNAHI BTANO GI
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/AMBER/Moto
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Aliha"
-CorrectPassword = "Aliha"
+CorrectUsername = "amber"
+CorrectPassword = "amber"
 
 loop = 'true'
 while (loop == 'true'):
