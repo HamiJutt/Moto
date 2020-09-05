@@ -98,13 +98,13 @@ logo = """•◈•-----------------------------•◈•
  ═════█████▓████═█████░══════█▓══════════
  ══░████████▓███═██████══════░═══════════
  ═══░▒░═░███████══█████══════════════════
-AMBER pagal AND NOMI Chaudhry Creation
+ZOYA AND NOMI JUTT Creation
 ─────────────────────────────────────────────────────────
 =======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAMBER
-\033[1;96mInstagram \033[1;93m: \033[1;FlowQueen
+\033[1;96mAuthor  \033[1;93m: \033[1;92mZOYA
+\033[1;96mInstagram \033[1;93m: \033[1;PATHANI
 \033[1;96mFacebook  \033[1;93m: \033[1;KIO BTAYE
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/AMBER/Moto
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ZOYA/Moto
 \033[1;91m======================================="""
 
 def tik():
@@ -125,15 +125,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAMBER
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowQueen
-\033[1;96mFacebook  \033[1;93m: \033[1;92mNAHI BTANO GI
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/AMBER/Moto
+\033[1;96mAuthor  \033[1;93m: \033[1;92mZOYA KHAN
+\033[1;96mInstagram \033[1;93m: \033[1;92mBATMEEZ LARKI
+\033[1;96mFacebook  \033[1;93m: \033[1;92mNAHI BTAO GI
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ZOYA KHAN/Moto
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "amber"
-CorrectPassword = "amber"
+CorrectUsername = "ZOYA"
+CorrectPassword = "KHAN"
 
 loop = 'true'
 while (loop == 'true'):
